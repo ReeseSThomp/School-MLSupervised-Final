@@ -1,0 +1,68 @@
+ Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook outputs (optional)
+*.ipynb~ # Temporary files created during editing
+
+# Configurations
+.env
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python packages
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+
+# Distribution / Packaging
+*.wheel
+*.deb
+*.rpm
+*.tar.gz
+*.7z
+*.zip
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter notebook specific extensions
+*.ipynb~ # Temporary unsaved notebooks
+
+# VSCode or IDE specific files
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite3
+db.sqlite3
+
+# Docker / Kubernetes
+*.pid
+*.bak
+.dockerignore
+docker-compose.override.yml
+
+# System files
+.DS_Store
+Thumbs.db
